@@ -6,6 +6,8 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 
 <!-- Insert Image -->
+<img width="247" alt="Screen Shot 2023-02-17 at 10 56 06 PM" src="https://user-images.githubusercontent.com/98928740/219830128-aa16780f-005f-49ed-8a3f-5db8b8fbb255.png">
+
 
 The author explicitly uses the word “ABLAZE” but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
 
